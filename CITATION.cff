@@ -4,6 +4,7 @@ type: software
 title: "collect-settings: build, encode and decode ODK Collect / KoboCollect configuration QR codes"
 version: "0.1.3"
 license: MIT
+doi: 10.5281/zenodo.23579946
 repository-code: "https://github.com/milkway/collect-settings"
 url: "https://crates.io/crates/collect-settings"
 keywords:
