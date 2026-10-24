@@ -2,11 +2,12 @@
 name = "collect-settings"
 version = "0.1.3"
 edition = "2021"
+authors = ["André Leite <leite@castlab.org>"]
 rust-version = "1.75"
 license = "MIT"
 description = "Build, encode and decode ODK Collect / KoboCollect configuration QR codes (settings JSON → zlib → base64 → QR)."
-repository = "https://github.com/Prompt-Consultoria/collect-settings"
-homepage = "https://github.com/Prompt-Consultoria/collect-settings"
+repository = "https://github.com/milkway/collect-settings"
+homepage = "https://github.com/milkway/collect-settings"
 documentation = "https://docs.rs/collect-settings"
 readme = "README.md"
 keywords = ["odk", "kobotoolbox", "qrcode", "collect", "survey"]

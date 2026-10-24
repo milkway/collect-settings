@@ -82,6 +82,6 @@ MIT.
 ## Contributing
 
 Issues and pull requests are welcome at
-[github.com/Prompt-Consultoria/collect-settings](https://github.com/Prompt-Consultoria/collect-settings).
+[github.com/milkway/collect-settings](https://github.com/milkway/collect-settings).
 Please run `cargo fmt`, `cargo clippy --all-targets --all-features` and
 `cargo test --all-features` before opening a PR.
