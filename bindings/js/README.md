@@ -6,6 +6,9 @@ in the browser or in Node. This is the
 [`collect-settings`](https://crates.io/crates/collect-settings) Rust crate
 compiled to WebAssembly (~270 kB, gzips to ~110 kB).
 
+> An independent project, not affiliated with, maintained by or endorsed by
+> ODK (Get ODK Inc.) or Kobo (KoboToolbox).
+
 ```js
 import init, { render, decode, lockedInterviewerAdmin, autoSyncGeneral } from 'collect-settings';
 await init();

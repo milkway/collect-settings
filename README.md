@@ -4,6 +4,9 @@ Build, encode and decode the configuration QR codes of
 [ODK Collect](https://docs.getodk.org/collect-import-export/) and
 KoboCollect, in Rust.
 
+> An independent project, not affiliated with, maintained by or endorsed by
+> ODK (Get ODK Inc.) or Kobo (KoboToolbox).
+
 A configuration code is `base64(zlib(json))` where the JSON has three
 sections: `general` (server, account, form management, interface), `admin`
 (admin password and access-control switches) and `project` (name, icon,
